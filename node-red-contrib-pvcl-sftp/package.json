@@ -28,7 +28,7 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "author": "Ajay Wazir ajaywazir@gmail.com",
+  "author": "Ajay Wazir <ajaywazir@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ajaywazir/node-red-contrib-pvcl-sftp/issues"
