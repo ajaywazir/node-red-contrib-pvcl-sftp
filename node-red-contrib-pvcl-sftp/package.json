@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rocky3598/node-red-contrib-better-sftp.git"
+    "url": "git+https://github.com/ajaywazir/node-red-contrib-pvcl-sftp.git"
   },
   "keywords": [
     "node-red",
@@ -28,12 +28,12 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
+  "author": "Ajay Wazir ajaywazir@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rocky3598/node-red-contrib-better-sftp/issues"
+    "url": "https://github.com/ajaywazir/node-red-contrib-pvcl-sftp/issues"
   },
-  "homepage": "https://github.com/rocky3598/node-red-contrib-better-sftp#readme",
+  "homepage": "https://github.com/ajaywazir/node-red-contrib-pvcl-sftp/#readme",
   "dependencies": {
     "ssh2-sftp-client": "^9.1.0"
   },
