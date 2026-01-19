@@ -1,0 +1,43 @@
+{
+  "name": "node-red-contrib-metator-sftp",
+  "version": "0.0.1",
+  "description": "A node for SFTP communication with support for concurrent connections and cross-platform path handling.",
+  "main": "transports/sftp/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint transports/sftp/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocky3598/node-red-contrib-better-sftp.git"
+  },
+  "keywords": [
+    "node-red",
+    "sftp",
+    "file",
+    "transfer",
+    "ssh",
+    "redconnect"
+  ],
+  "node-red": {
+    "version": ">=1.0.0",
+    "nodes": {
+      "sftp": "transports/sftp/index.js"
+    }
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rocky3598/node-red-contrib-better-sftp/issues"
+  },
+  "homepage": "https://github.com/rocky3598/node-red-contrib-better-sftp#readme",
+  "dependencies": {
+    "ssh2-sftp-client": "^9.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
