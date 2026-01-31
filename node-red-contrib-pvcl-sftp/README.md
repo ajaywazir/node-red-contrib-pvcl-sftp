@@ -1,4 +1,4 @@
-# node-red-contrib-better-sftp
+# node-red-contrib-pvcl-sftp
 
 Better SFTP was created out of necessity for a SFTP node which suited my requirements.
 This node is enahanced version of https://github.com/sublime93/node-red-contrib-better-sftp. The original repo is archived and there is no ongoing development 
@@ -48,5 +48,6 @@ See [license](https://github.com/sublime93/node-red-contrib-better-sftp/blob/mas
 [https://github.com/mscdex/ssh2-streams]: https://github.com/mscdex/ssh2-streams
 [https://github.com/jyu213]: https://github.com/jyu213
 [https://github.com/jyu213/ssh2-sftp-client]: https://github.com/jyu213/ssh2-sftp-client
+
 
 
