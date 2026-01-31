@@ -11,7 +11,8 @@ Install
 
 Run the following command in the root directory of your Node-RED install
 
-    npm install node-red-contrib-better-sftp
+    npm install node-red-contrib-pvcl-sftp
+
     
 SFTP
 -------
@@ -47,3 +48,4 @@ See [license](https://github.com/sublime93/node-red-contrib-better-sftp/blob/mas
 [https://github.com/mscdex/ssh2-streams]: https://github.com/mscdex/ssh2-streams
 [https://github.com/jyu213]: https://github.com/jyu213
 [https://github.com/jyu213/ssh2-sftp-client]: https://github.com/jyu213/ssh2-sftp-client
+
